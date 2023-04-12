@@ -49,3 +49,5 @@ def decode(morse_message)
   end
   decode_message.strip
 end
+
+decode("      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
