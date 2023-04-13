@@ -26,8 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [implement-sql-from-Diagram] <a name="about-project"></a>
-
+# 📖 [Morse Code] <a name="about-project"></a>
 
 **[Morse Code]** is a code for deciphering a message in morse code
 
